@@ -356,7 +356,7 @@ const App: React.FC = () => {
           <div className="flex items-center flex-wrap sm:flex md:flex">
             <div className="flex flex-col w-full items-center sm:w-[35%] md:w-[35%] bg-transparent text-center">
               <img
-                src="src/assets/akash.jpg"
+                src="/akash.jpg"
                 alt=""
                 className="rounded-full w-[250px] h-[250px] absolute top-[2.0%] sm:top-[3.8%] "
               />

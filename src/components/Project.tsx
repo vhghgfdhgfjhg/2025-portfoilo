@@ -79,7 +79,7 @@ export default function Project() {
   const images = [
     {
       id: 1,
-      src: "/src/assets/ecommerce.png",
+      src: "/ecommerce.png",
       alt: "ecommerce",
       title: "Swipe-Ecommerce",
       desicription:
@@ -90,7 +90,7 @@ export default function Project() {
     },
     {
       id: 2,
-      src: "/src/assets/netflix.png",
+      src: "/netflix.png",
       alt: "netflix",
       title: "Netflix Clone",
       desicription:
@@ -101,7 +101,7 @@ export default function Project() {
     },
     {
       id: 3,
-      src: "/src/assets/1.png",
+      src: "/1.png",
       alt: "ChatApp",
       title: "Real-Time Chat App",
       desicription:
@@ -112,7 +112,7 @@ export default function Project() {
     },
     {
       id: 4,
-      src: "/src/assets/Iphone.png",
+      src: "/Iphone.png",
       alt: "Iphone",
       title: " iPhonewebsite_clone",
       desicription:
@@ -123,7 +123,7 @@ export default function Project() {
     },
     {
       id: 5,
-      src: "/src/assets/food.png",
+      src: "/food.png",
       alt: "Food search",
       title: "Food-Recipes-bot",
       desicription:
@@ -134,7 +134,7 @@ export default function Project() {
     },
     {
       id: 6,
-      src: "/src/assets/chatbot.png",
+      src: "/chatbot.png",
       alt: "Chatbot",
       title: "Chatbot-JS",
       desicription: "AI website created using JavaScript.",
@@ -144,7 +144,7 @@ export default function Project() {
     },
     {
       id: 7,
-      src: "/src/assets/imagesearch.png",
+      src: "/imagesearch.png",
       alt: "imagesearch",
       title: "Image-Search-engine",
       desicription: "images can search using key words like ex;- tree ,forest.",
@@ -154,7 +154,7 @@ export default function Project() {
     },
     {
       id: 8,
-      src: "/src/assets/Expense.png",
+      src: "/Expense.png",
       alt: "Expense",
       title: "expense-income-track",
       desicription:
@@ -165,7 +165,7 @@ export default function Project() {
     },
     {
       id: 9,
-      src: "/src/assets/bmi.png",
+      src: "/bmi.png",
       alt: "BMI",
       title: "BMI-Calculator",
       desicription:
@@ -176,7 +176,7 @@ export default function Project() {
     },
     {
       id: 10,
-      src: "/src/assets/wizard.png",
+      src: "/wizard.png",
       alt: "wizard",
       title: "WizardZ-website",
       desicription: "",

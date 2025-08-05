@@ -1,13 +1,13 @@
 export default function Project() {
   const images = [
-    { id: 1, src: "src/assets/css.jpg", link:"" },
-    { id: 2, src: "src/assets/frontend.jpg" , link:""},
-    { id: 3, src: "src/assets/html-1.jpg" , link:""},
-    { id: 4, src: "src/assets/javascript_basic .jpg", link:"" },
-    { id: 5, src: "src/assets/javascript-1.jpg" , link:""},
-    { id: 6, src: "src/assets/microsoft-1.jpg" , link:""},
-    { id: 7, src: "src/assets/react-1.jpg" , link:""},
-    { id: 8, src: "src/assets/sql.jpg" , link:""},
+    { id: 1, src: "/css.jpg", link:"" },
+    { id: 2, src: "/frontend.jpg" , link:""},
+    { id: 3, src: "/html-1.jpg" , link:""},
+    { id: 4, src: "/javascript_basic .jpg", link:"" },
+    { id: 5, src: "/javascript-1.jpg" , link:""},
+    { id: 6, src: "/microsoft-1.jpg" , link:""},
+    { id: 7, src: "/react-1.jpg" , link:""},
+    { id: 8, src: "/sql.jpg" , link:""},
   ];
 
       return (
