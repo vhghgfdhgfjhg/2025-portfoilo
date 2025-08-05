@@ -2,11 +2,11 @@ import React from "react"
 import Image from "next/image"
 import { Swiper, SwiperSlide } from "swiper/react"
 
-import "swiper/css/effect-cards"
+// import "swiper/css/effect-cards"
 import { EffectCards } from "swiper/modules"
 
-import "swiper/css"
-import "swiper/css/effect-coverflow"
+// import "swiper/css"
+// import "swiper/css/effect-coverflow"
 import { SparklesIcon } from "lucide-react"
 import { Autoplay, Navigation, Pagination } from "swiper/modules"
 

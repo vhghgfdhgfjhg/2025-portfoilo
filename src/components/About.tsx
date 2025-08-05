@@ -4,7 +4,7 @@ import React from "react";
 const About: React.FC = () => {
   return (
     <>
-     <div className=" max-h-screen flex items-center justify-center  font-sans bg-transparent h-[524px] flex-wrap p-4 bg-blue-300 bg-opacity-25 rounded-xl">
+     <div className=" max-h-screen flex items-center justify-center  font-sans bg-transparent h-[524px] flex-wrap p-4 bg-blue-50 bg-opacity-20  rounded-xl">
       <div className=" flex flex-col text-justify">
         <h1 className="text-6xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-green-50  ">About</h1>
         <p className=" pt-4 text-xl">
